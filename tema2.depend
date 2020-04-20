@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1587391608 source:d:\facultate an1 sem2\poo\tema2\main.cpp
+	<iostream>
+	<ClasaPereche.h>
+	<Multime_pereche.h>
+	<Stiva_pereche.h>
+	<Coada_pereche.h>
+
+1587397620 source:d:\facultate an1 sem2\poo\tema2\src\clasapereche.cpp
+	"ClasaPereche.h"
+
+1587233603 d:\facultate an1 sem2\poo\tema2\include\clasapereche.h
+	<iostream>
+
+1587391260 source:d:\facultate an1 sem2\poo\tema2\src\multime_pereche.cpp
+	"Multime_pereche.h"
+
+1587392970 d:\facultate an1 sem2\poo\tema2\include\multime_pereche.h
+	<ClasaPereche.h>
+	<vector>
+
+1587392970 source:d:\facultate an1 sem2\poo\tema2\src\coada_pereche.cpp
+	"Coada_pereche.h"
+
+1587392970 d:\facultate an1 sem2\poo\tema2\include\coada_pereche.h
+	<Multime_pereche.h>
+
+1587392970 d:\facultate an1 sem2\poo\tema2\include\stiva_pereche.h
+	<Multime_pereche.h>
+	<vector>
+
+1587392970 source:d:\facultate an1 sem2\poo\tema2\src\stiva_pereche.cpp
+	"Stiva_pereche.h"
+
